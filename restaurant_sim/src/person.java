@@ -1,7 +1,7 @@
 
 public class person {
 
-	public static void main(String[] args) {
+	public person(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
