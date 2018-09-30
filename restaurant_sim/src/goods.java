@@ -6,5 +6,7 @@ public class goods {
 		this.name = name;
 		this.type = type;
 	}
-	
+	public String getgoodstype(String type) {
+		return name;
+	}
 }
